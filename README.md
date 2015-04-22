@@ -1,4 +1,4 @@
-# swatch #
+# Swatch #
 
 Colour shifting squares.
 
