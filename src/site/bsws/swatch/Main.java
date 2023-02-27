@@ -1,4 +1,4 @@
-package info.arindam.swatch;
+package site.bsws.swatch;
 
 /**
  *
@@ -22,7 +22,7 @@ public class Main extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        swatch1 = new info.arindam.swatch.Swatch();
+        swatch1 = new site.bsws.swatch.Swatch();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Swatch");
@@ -91,6 +91,6 @@ public class Main extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private info.arindam.swatch.Swatch swatch1;
+    private site.bsws.swatch.Swatch swatch1;
     // End of variables declaration//GEN-END:variables
 }

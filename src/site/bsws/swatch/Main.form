@@ -35,7 +35,7 @@
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Container class="info.arindam.swatch.Swatch" name="swatch1">
+    <Container class="site.bsws.swatch.Swatch" name="swatch1">
       <Properties>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>

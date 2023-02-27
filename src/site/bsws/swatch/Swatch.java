@@ -1,4 +1,4 @@
-package info.arindam.swatch;
+package site.bsws.swatch;
 
 import java.awt.Color;
 import java.awt.Graphics;
