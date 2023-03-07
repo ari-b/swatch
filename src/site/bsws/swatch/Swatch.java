@@ -11,7 +11,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Arindam Biswas <arindam dot b at eml dot cc>
+ * @author Arindam Biswas <arindam at bsws dot site>
  */
 public class Swatch extends JPanel {
 
